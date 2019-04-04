@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/DateRangeFilterViaXpoDataSource/Default.aspx) (VB: [Default.aspx.vb](./VB/DateRangeFilterViaXpoDataSource/Default.aspx.vb))
+* [Default.aspx](./CS/DateRangeFilterViaXpoDataSource/Default.aspx) (VB: [Default.aspx](./VB/DateRangeFilterViaXpoDataSource/Default.aspx))
 * [Default.aspx.cs](./CS/DateRangeFilterViaXpoDataSource/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/DateRangeFilterViaXpoDataSource/Default.aspx.vb))
 * [Northwind.cs](./CS/DateRangeFilterViaXpoDataSource/Northwind.cs) (VB: [Northwind.vb](./VB/DateRangeFilterViaXpoDataSource/Northwind.vb))
 * [XpoHelper.cs](./CS/DateRangeFilterViaXpoDataSource/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/DateRangeFilterViaXpoDataSource/XpoHelper.vb))
