@@ -29,7 +29,7 @@ namespace DateRangeFilterViaXpoDataSource {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel ASPxLabel1;
+        protected global::DevExpress.Web.ASPxLabel ASPxLabel1;
         
         /// <summary>
         /// deStartDate control.
@@ -38,7 +38,7 @@ namespace DateRangeFilterViaXpoDataSource {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxDateEdit deStartDate;
+        protected global::DevExpress.Web.ASPxDateEdit deStartDate;
         
         /// <summary>
         /// ASPxLabel2 control.
@@ -47,7 +47,7 @@ namespace DateRangeFilterViaXpoDataSource {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel ASPxLabel2;
+        protected global::DevExpress.Web.ASPxLabel ASPxLabel2;
         
         /// <summary>
         /// deEndDate control.
@@ -56,7 +56,7 @@ namespace DateRangeFilterViaXpoDataSource {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxDateEdit deEndDate;
+        protected global::DevExpress.Web.ASPxDateEdit deEndDate;
         
         /// <summary>
         /// ASPxGridView1 control.
@@ -65,7 +65,7 @@ namespace DateRangeFilterViaXpoDataSource {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView ASPxGridView1;
+        protected global::DevExpress.Web.ASPxGridView ASPxGridView1;
         
         /// <summary>
         /// XpoDataSource1 control.

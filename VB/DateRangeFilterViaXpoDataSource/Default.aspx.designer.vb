@@ -32,7 +32,7 @@ Namespace DateRangeFilterViaXpoDataSource
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected ASPxLabel1 As Global.DevExpress.Web.ASPxLabel
 
 		''' <summary>
 		''' deStartDate control.
@@ -41,7 +41,7 @@ Namespace DateRangeFilterViaXpoDataSource
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected deStartDate As Global.DevExpress.Web.ASPxEditors.ASPxDateEdit
+		Protected deStartDate As Global.DevExpress.Web.ASPxDateEdit
 
 		''' <summary>
 		''' ASPxLabel2 control.
@@ -50,7 +50,7 @@ Namespace DateRangeFilterViaXpoDataSource
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLabel2 As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected ASPxLabel2 As Global.DevExpress.Web.ASPxLabel
 
 		''' <summary>
 		''' deEndDate control.
@@ -59,7 +59,7 @@ Namespace DateRangeFilterViaXpoDataSource
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected deEndDate As Global.DevExpress.Web.ASPxEditors.ASPxDateEdit
+		Protected deEndDate As Global.DevExpress.Web.ASPxDateEdit
 
 		''' <summary>
 		''' ASPxGridView1 control.
@@ -68,7 +68,7 @@ Namespace DateRangeFilterViaXpoDataSource
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' XpoDataSource1 control.
